@@ -5,3 +5,6 @@ Hello I am Jeffrey
 
 ### Groth Mindset
 I keep myself in a growth
+
+## Table of Contents
+- [ReadingClass 1]{Markdown.md}
