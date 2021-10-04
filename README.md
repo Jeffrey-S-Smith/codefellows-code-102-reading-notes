@@ -12,4 +12,4 @@ I believe it is any individuals talents or skills which can be developed through
 3. Take a step deeper into authenticity
 
 ## Table of Contents
-- [ReadingClass 1]{markdown.md}
+- [ReadingClass 1](markdown.md).
