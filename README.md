@@ -24,14 +24,14 @@ I believe it is any individuals talents or skills which can be developed through
 
 - [ReadingClass 1](markdown.md)
 
-- [ReadingClass 2](codercomputer.md)
+- [ReadingClass 2](markdown.md)
 
-- [ReadingClass 3](remote-repositories.md)
+- [ReadingClass 3](markdown.md)
 
 - [ReadingClass 4](markdown.md)
 
-- [ReadingClass 5](markdown.md)
+- [designwithcss](markdown.md)
 
 - [ReadingClass 6](markdown.md)
 - [ReadingClass 7](markdown.md)
-- [ReadingClass 8](markdown.md)
+- [ReadingClass ](markdown.md)
