@@ -73,4 +73,3 @@ For cloned repositories, use the command git fetch origin to pull down any new c
 *Note:* git fetch solely pulls new data to a local repository; it does not merge changes with or modify your local work. We will discuss merging in a later section. Later, we will also discuss git pull , which allows for fetching and automatic merging.
 
 Webpage:[Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
-
