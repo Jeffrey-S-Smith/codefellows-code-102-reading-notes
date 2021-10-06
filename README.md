@@ -16,22 +16,17 @@ I believe it is any individuals talents or skills which can be developed through
 2. Stop seeking approval from others
 3. Take a step deeper into authenticity
 
+## Table of Contents
+
+- [ReadingClass 1](README.md)
+- [ReadingClass 2](markdown.md)
+- [ReadingClass 3](coderscomputer.md)
+- [ReadingClass 4](structurewithhtml.md)
+- [ReadingClass 5](designwithcss.md)
+- [ReadingClass 6](dynamicjavascript.md)
+- [ReadingClass 7](markdown.md)
+- [ReadingClass 8](markdown.md)
+
 #### GitHub Page
 
 - [github](https://github.com/Jeffrey-S-Smith)
-
-## Table of Contents
-
-- [ReadingClass 1](markdown.md)
-
-- [ReadingClass 2](markdown.md)
-
-- [ReadingClass 3](markdown.md)
-
-- [ReadingClass 4](markdown.md)
-
-- [designwithcss](markdown.md)
-
-- [ReadingClass 6](markdown.md)
-- [ReadingClass 7](markdown.md)
-- [ReadingClass ](markdown.md)
