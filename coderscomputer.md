@@ -27,4 +27,4 @@ mv - move a file to a folder you direct, either by direct path or in the same di
 cp - copy a file to a folder you direct, either by direct path or in the same directory the file is in
 
 
-[My Page:](https://github.com/Jeffrey-S-Smith/reading-notes/edit/main/coderscomputer.md)
+[My Page:](coderscomputer.md)
