@@ -1,5 +1,5 @@
 
-# Text Editers
+# Text Editors
 
 ## What is a text Editor?
  Is a type of computer program that edits plain text.
