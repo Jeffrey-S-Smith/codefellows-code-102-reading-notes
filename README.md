@@ -24,8 +24,8 @@ I believe it is any individuals talents or skills which can be developed through
 - [ReadingClass 4](structurewithhtml.md)
 - [ReadingClass 5](designwithcss.md)
 - [ReadingClass 6](dynamicjavascript.md)
-- [ReadingClass 7](markdown.md)
-- [ReadingClass 8](markdown.md)
+- [ReadingClass 7](programmingwithjavaScript.md)
+- [ReadingClass 8](operatorsandloops.md)
 
 #### GitHub Page
 
